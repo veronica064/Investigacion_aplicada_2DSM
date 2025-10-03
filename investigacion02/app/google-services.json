@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "30687260341",
+    "project_id": "investigacion2-3b996",
+    "storage_bucket": "investigacion2-3b996.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30687260341:android:f002101ed656c53eb118fc",
+        "android_client_info": {
+          "package_name": "com.example.investigacion02"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH8LboS5Z9OFgewgE2-xrVLnE-2tpqW_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
