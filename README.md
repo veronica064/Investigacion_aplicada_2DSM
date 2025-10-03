@@ -14,6 +14,7 @@ Aplicación Android desarrollada en Kotlin que utiliza Firebase Realtime Databas
 - Kotlin (Android Studio)
 - Firebase Realtime Database
 - MVVM Architecture
+- Authentication de firebase
 
 ## 🚀 Cómo ejecutar
 
